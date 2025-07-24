@@ -1,0 +1,84 @@
+Tag,Name,Value,Level
+"(0002,0000)",File Meta Information Group Length,210,0
+"(0002,0001)",File Meta Information Version,b'\x00\x01',0
+"(0002,0002)",Media Storage SOP Class UID,1.2.840.10008.5.1.4.1.1.1.1,0
+"(0002,0003)",Media Storage SOP Instance UID,1.98.6.1.4.1.30071.9.727.6953738857164145.6.1,0
+"(0002,0010)",Transfer Syntax UID,1.2.840.10008.1.2.4.70,0
+"(0002,0012)",Implementation Class UID,1.2.410.200058.1.1.98.1.1,0
+"(0002,0013)",Implementation Version Name,OFFIS_DCMTK_361,0
+"(0002,0016)",Source Application Entity Title,DR-CONSOLE,0
+"(0008,0008)",Image Type,"['ORIGINAL', 'PRIMARY']",0
+"(0008,0016)",SOP Class UID,1.2.840.10008.5.1.4.1.1.1.1,0
+"(0008,0018)",SOP Instance UID,1.98.6.1.4.1.30071.9.727.6953738857164145.6.1,0
+"(0008,0020)",Study Date,20220113,0
+"(0008,0021)",Series Date,20220113,0
+"(0008,0022)",Acquisition Date,20220113,0
+"(0008,0023)",Content Date,20220113,0
+"(0008,0030)",Study Time,105508,0
+"(0008,0031)",Series Time,105929.413,0
+"(0008,0032)",Acquisition Time,110024.430,0
+"(0008,0033)",Content Time,110024.430,0
+"(0008,0050)",Accession Number,,0
+"(0008,0060)",Modality,DX,0
+"(0008,0080)",Institution Name,AKHTAR Hospital,0
+"(0008,0090)",Referring Physician's Name,,0
+"(0008,1030)",Study Description,"Pelvis AP,Femur AP,Femur LAT,Femur AP,Femur LAT,Pelvis AP",0
+"(0008,103E)",Series Description,Pelvis AP,0
+"(0008,1070)",Operators' Name,PAYAEMD ADMIN,0
+"(0008,2111)",Derivation Description,"Lossless JPEG compression, selection value 1, point transform 0, compression ratio 1.899",0
+"(0008,9215)",Derivation Code Sequence,"[(0008,0100) Code Value                          SH: '121327'
+(0008,0102) Coding Scheme Designator  ",0
+"(0008,0100)",Code Value,121327,1
+"(0008,0102)",Coding Scheme Designator,DCM,1
+"(0008,0104)",Code Meaning,Full fidelity image,1
+"(0010,0010)",Patient's Name,DEZFOULIYAN HASAN,0
+"(0010,0020)",Patient ID,663818,0
+"(0010,0040)",Patient's Sex,M,0
+"(0010,1010)",Patient's Age,,0
+"(0010,1030)",Patient's Weight,0,0
+"(0018,0015)",Body Part Examined,PELVIS AP,0
+"(0018,0060)",KVP,75,0
+"(0018,1147)",Field of View Shape,RECTANGLE,0
+"(0018,1153)",Exposure in uAs,51200,0
+"(0018,115E)",Image and Fluoroscopy Area Dose Product,0,0
+"(0018,1164)",Imager Pixel Spacing,"[0.148, 0.148]",0
+"(0018,1190)",Focal Spot(s),1.2,0
+"(0018,1411)",Exposure Index,5054,0
+"(0018,5100)",Patient Position,UNKNOWN,0
+"(0018,7014)",Detector Active Time,0,0
+"(0018,7016)",Detector Activation Offset From Exposure,0,0
+"(0018,7060)",Exposure Control Mode,MANUAL,0
+"(0018,8150)",Exposure Time in uS,160000,0
+"(0018,8151)",X-Ray Tube Current in uA,320000,0
+"(0018,9328)",Exposure Time in ms,160.0,0
+"(0018,9330)",X-Ray Tube Current in mA,320.0,0
+"(0018,9332)",Exposure in mAs,51.20000076293945,0
+"(0020,000D)",Study Instance UID,1.98.6.1.4.1.30071.9.727.6953738857164145,0
+"(0020,000E)",Series Instance UID,1.98.6.1.4.1.30071.9.727.6953738857164145.6,0
+"(0020,0010)",Study ID,56253,0
+"(0020,0011)",Series Number,6,0
+"(0020,0012)",Acquisition Number,1,0
+"(0020,0013)",Instance Number,1,0
+"(0020,0020)",Patient Orientation,,0
+"(0020,1002)",Images in Acquisition,1,0
+"(0020,4000)",Image Comments,ACCEPTED,0
+"(0028,0002)",Samples per Pixel,1,0
+"(0028,0004)",Photometric Interpretation,MONOCHROME2,0
+"(0028,0010)",Rows,2879,0
+"(0028,0011)",Columns,2854,0
+"(0028,0030)",Pixel Spacing,"[0.148, 0.148]",0
+"(0028,0100)",Bits Allocated,16,0
+"(0028,0101)",Bits Stored,16,0
+"(0028,0102)",High Bit,15,0
+"(0028,0103)",Pixel Representation,0,0
+"(0028,0300)",Quality Control Image,YES,0
+"(0028,0301)",Burned In Annotation,NO,0
+"(0028,1040)",Pixel Intensity Relationship,LIN,0
+"(0028,1041)",Pixel Intensity Relationship Sign,1,0
+"(0028,1050)",Window Center,32768,0
+"(0028,1051)",Window Width,65536,0
+"(0028,1052)",Rescale Intercept,0,0
+"(0028,1053)",Rescale Slope,1,0
+"(0028,1054)",Rescale Type,US,0
+"(0028,2110)",Lossy Image Compression,00,0
+"(7FE0,0010)",Pixel Data,b'\xfe\xff\x00\xe0\x00\x00\x00\x00\xfe\xff\x00\xe0\xbe\x0b\x84\x00\xff\xd8\xff\xe0\x00\x10JFIF\x00\x,0
